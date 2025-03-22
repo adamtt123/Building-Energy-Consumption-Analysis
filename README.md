@@ -23,13 +23,6 @@ This project applies machine learning techniques to analyze and predict energy c
 ## Access the Notebook
 You can directly access the Jupyter notebook of this project in Google Colab by clicking the badge below:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pB9kXTfApQOcftOo24OsyNXou8xudw8_)
-
-## How to Use the Notebook
-1. Click on the "Open In Colab" badge above.
-2. Google Colab will open the notebook in your browser.
-3. You can run the notebook cells sequentially to see the analysis and results.
-
 ## Contributing
 Interested in contributing to the Building Energy Consumption Analysis project? Great! Start by forking this repository, make your changes, and submit a pull request. You can also open issues to discuss any modifications or propose new features.
 
